@@ -2,7 +2,7 @@
 
 To run the app in local:
 - clone repository
-- add API key to lambda functions in `/functions`
+- add API key to lambda functions in `/characters/functions`
 - run `npm install` in a terminal in `/characters`
 - open a second terminal in `/characters`
 - run `npm run start:lambda` in one
