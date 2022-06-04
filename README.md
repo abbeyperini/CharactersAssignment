@@ -1,6 +1,7 @@
 # CharactersAssignment
 
-To run the app in local:
+## To run the app in local
+
 - clone repository
 - add API key to lambda functions in `/characters/functions`
 - run `npm install` in a terminal in `/characters`
